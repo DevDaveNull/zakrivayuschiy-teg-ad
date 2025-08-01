@@ -437,23 +437,23 @@ body {
   contrast(0.85)
 }
 
-.filter__auto__brsa{
+.filter__auto__brsa {
   filter:
   brightness(150%)
   saturate(3);
 }
 
-.filter__auto__tinting{
+.filter__auto__tinting {
   filter:
  hue-rotate(45deg);
 }
 
-.filter__auto__invert{
+.filter__auto__invert {
   filter:
  invert(0.8);
 }
 
-.filter__auto__sepia{
+.filter__auto__sepia {
   filter:
 sepia(90%);
 }
